@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**rohit-dhondage/rohit-dhondage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Hi, I'm Rohit Dhondage
 
 🚀 **Java Backend Developer | AI Enthusiast | Problem Solver**
@@ -37,6 +33,7 @@
 * JWT (JSON Web Tokens)
 * Postman
 * Git & GitHub
+* Maven 
 
 ### 🤖 AI & Emerging Tech
 
@@ -45,7 +42,7 @@
 
 ---
 
-## 🚀 Featured Projects
+
 ## 🚀 Featured Projects
 
 ### 🔹 InterviewIQ – AI-Based Interview System
@@ -57,7 +54,7 @@
 
 **Tech Stack:** Java | Spring Boot | Hibernate | MySQL | JWT
 
-🔗 GitHub: [[Add Link]](https://github.com/rohit-dhondage/InterviewIQ.git)
+🔗 GitHub: https://github.com/rohit-dhondage/InterviewIQ.git
 
 ---
 
